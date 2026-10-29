@@ -94,14 +94,16 @@ The Transformer architecture introduced several groundbreaking innovations that 
 
 How doesthe Transformer architecture work?
 
-image
+<img width="1012" height="513" alt="Screenshot 2026-10-29 134731" src="https://github.com/user-attachments/assets/b374c4e9-507b-4613-a4fd-089a13f6d229" />
+
 
 3. Generative AI applications.
 Video Applications
 
 Video Generation OpenAI’s Sora attracted significant attention with its impressive video generation capabilities.2
 Video Prediction A GAN-based video prediction system: *Comprehends both temporal and spatial elements of a video *Generates the next sequence based on that knowledge (See the figure below) *Distinguishes between probable and non-probable sequences GAN-based video predictions can help detect anomalies that are needed in a wide range of sectors, such as security and surveillance.
-image
+<img width="782" height="265" alt="Screenshot 2026-10-29 134159" src="https://github.com/user-attachments/assets/276ccd4f-7f69-4b8a-843c-7f34c682092e" />
+
 
 Image Applications
 
@@ -124,7 +126,9 @@ Code-based Applications
 Code generation
 Another application of generative AI is in software development owing to its capacity to produce code without the need for manual coding. Developing code is possible through this quality not only for professionals but also for non-technical people.
 
-image
+<img width="727" height="701" alt="Screenshot 2026-10-29 134212" src="https://github.com/user-attachments/assets/118df0ae-22bc-4c9c-a651-0a45c9ea8dc7" />
+
+
 
 Other Applications
 
@@ -132,7 +136,7 @@ Conversational AI
 Another use case of generative AI involves generating responses to user input in the form of natural language. This type is commonly used in chatbotsand virtual assistants, which are designed to provide information, answer questions, or perform tasks for users through conversational interfaces such as chat windows or voice assistants.
 
 4. Generative AI impact of scaling in LLMs.
-image
+<img width="217" height="202" alt="Screenshot 2026-10-29 135925" src="https://github.com/user-attachments/assets/7ef1c393-5121-4d0e-8d2b-1b94c7bfc0d7" />
 
 In the rapidly evolving world of artificial intelligence, large language models (LLMs) have emerged as a game-changing force, revolutionizing the way we interact with technology and transforming countless industries. These powerful models can perform a vast array of tasks, from text generation and translation to question-answering and summarization.However, unlocking the full potential of these LLMs requires a deep understanding of how to effectively scale these LLMs, ensuring optimal performance and capabilities. In this blog post, we will delve into the crucial concept of scaling techniques for LLM models and explore why mastering this aspect is essential for anyone working in the AI domain.Asthe complexity and size of LLMs continue to grow, the importance of scaling cannot be overstated. It plays a pivotal role in improving a model’s performance, generalization, and capacity to learn from massive datasets. By scaling LLMs effectively, researchers and practitioners can unlock unprecedented levels of AI capabilities, paving the way for innovative applications and groundbreaking solutions.
 
